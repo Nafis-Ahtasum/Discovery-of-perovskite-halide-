@@ -1,4 +1,4 @@
-# Discovery-of-perovskite-halide-
+# Discovery-of-lead free double perovskite-halide
 This is machine learning workflow to discover novel lead free perovskite with thermodynamic stability and required  Shockley–Queisser limit band gap.
 
 # Chemical-Genome Backward Mapping for Lead-Free Double Perovskites
@@ -15,4 +15,4 @@ This repository implements the multi-stage materials informatics and backward-ma
 
 ## Overview
 
-Traditional materials discovery relies on forward screening over large compositional listings. This pipeline maps target functional phenotypes backward onto chemical descriptor "genes" across 13,088 charge-balanced $A_2BB'X_6$ double perovskites using evolutionary-optimized surrogates, SHAP interpretability, and first-principles DFT validation.
+Traditional materials discovery relies on  brute force. This pipeline maps target functional phenotypes backward onto chemical descriptor "genes" across 13,088 charge-balanced $A_2BB'X_6$ double perovskites using evolutionary-optimized surrogates, SHAP interpretability, and first-principles DFT validation.
