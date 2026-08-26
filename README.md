@@ -10,7 +10,7 @@ This is machine learning workflow to discover novel lead free perovskite with th
 This repository implements the multi-stage materials informatics and backward-mapping framework described in:
 
 > **Backward mapping from target optoelectronic phenotypes to chemical genomes for the discovery of lead-free double perovskites**  
-> *Materials Today Physics*, 66 (2026) 102180. [https://doi.org/10.1016/j.mtphys.2026.102180](https://doi.org/10.1016/j.mtphys.2026.102180)
+> *Materials Today Physics  Q1 Impact Factor 9.3*, 66 (2026) 102180. [https://doi.org/10.1016/j.mtphys.2026.102180](https://doi.org/10.1016/j.mtphys.2026.102180)
 
 
 ## Overview
