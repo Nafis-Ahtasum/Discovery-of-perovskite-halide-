@@ -23,27 +23,27 @@ Traditional materials discovery relies on  brute force. This pipeline maps targe
 This repository contains all raw computational datasets, processed workflow outputs, and publication-standard visual assets to enable complete reproducibility:
 
 * **Thermodynamic & Kinetic Stability Data:**
-  * Ground-state DFT structural relaxations (relaxed coordinates and cell parameters)[cite: 1].
-  * 0 K convex-hull distance calculations ($\Delta E_{\text{hull}} \le 25\text{ meV/atom}$)[cite: 1].
-  * Decomposition enthalpy assessments ($\Delta H$) calculated against competing binary decomposition pathways[cite: 1].
-  * Canonical ($NVT$) 300 K *ab initio* molecular dynamics (AIMD) trajectory logs and energy envelopes[cite: 1].
+  * Ground-state DFT structural relaxations (relaxed coordinates and cell parameters).
+  * 0 K convex-hull distance calculations ($\Delta E_{\text{hull}} \le 25\text{ meV/atom}$).
+  * Decomposition enthalpy assessments ($\Delta H$) calculated against competing binary decomposition pathways.
+  * Canonical ($NVT$) 300 K *ab initio* molecular dynamics (AIMD) trajectory logs and energy envelopes.
 
 * **Electronic & Optoelectronic Profiles:**
-  * Raw data for GGA-PBE electronic band structures and projected density of states (PDOS)[cite: 1].
-  * Direction-resolved and direction-averaged carrier effective masses ($m_e^*$, $m_h^*$)[cite: 1].
-  * Static electronic dielectric constants ($\epsilon_1(0)$)[cite: 1].
-  * Hydrogenic Wannier-Mott exciton binding energies ($\Delta E_{\text{xb}}$)[cite: 1].
+  * Raw data for GGA-PBE electronic band structures and projected density of states (PDOS).
+  * Direction-resolved and direction-averaged carrier effective masses ($m_e^*$, $m_h^*$).
+  * Static electronic dielectric constants ($\epsilon_1(0)$).
+  * Hydrogenic Wannier-Mott exciton binding energies ($\Delta E_{\text{xb}}$).
 
 * **Optical Response Spectra:**
-  * Frequency-dependent complex dielectric functions ($\epsilon_1(\omega), \epsilon_2(\omega)$)[cite: 1].
-  * Optical absorption coefficient spectra ($\alpha(\omega)$)[cite: 1].
-  * Refractive indices ($n(\omega)$) and extinction coefficients ($\kappa(\omega)$)[cite: 1].
-  * Reflectivity spectra ($R(\omega)$)[cite: 1].
-  * Electron energy-loss spectra ($L(\omega)$)[cite: 1].
-  * Frequency-dependent optical conductivity spectra ($\sigma_1(\omega)$)[cite: 1].
+  * Frequency-dependent complex dielectric functions ($\epsilon_1(\omega), \epsilon_2(\omega)$).
+  * Optical absorption coefficient spectra ($\alpha(\omega)$).
+  * Refractive indices ($n(\omega)$) and extinction coefficients ($\kappa(\omega)$).
+  * Reflectivity spectra ($R(\omega)$).
+  * Electron energy-loss spectra ($L(\omega)$).
+  * Frequency-dependent optical conductivity spectra ($\sigma_1(\omega)$).
 
 * **OriginPro Project Files & Visual Assets:**
   * Editable OriginPro (`.opju` / `.opj`) project files containing raw data layers and curve fittings.
-  * High-resolution figure exports for descriptor correlation heatmaps, parity plots, and residual distributions[cite: 1].
-  * Receiver operating characteristic (ROC) curves and SHAP feature attribution summary plots[cite: 1].
-  * Simulated powder X-ray diffraction (XRD) patterns for structural fingerprinting[cite: 1].
+  * High-resolution figure exports for descriptor correlation heatmaps, parity plots, and residual distributions.
+  * Receiver operating characteristic (ROC) curves and SHAP feature attribution summary plots.
+  * Simulated powder X-ray diffraction (XRD) patterns for structural fingerprinting.
