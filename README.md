@@ -30,17 +30,17 @@ This repository contains all raw computational datasets, processed workflow outp
 
 * **Electronic & Optoelectronic Profiles:**
   * Raw data for GGA-PBE electronic band structures and projected density of states (PDOS).
-  * Direction-resolved and direction-averaged carrier effective masses ($m_e^*$, $m_h^*$).
-  * Static electronic dielectric constants ($\epsilon_1(0)$).
+  * Direction-resolved and direction-averaged carrier effective masses (m_e, m_h).
+  * Static electronic dielectric constants.
   * Hydrogenic Wannier-Mott exciton binding energies ($\Delta E_{\text{xb}}$).
 
 * **Optical Response Spectra:**
-  * Frequency-dependent complex dielectric functions ($\epsilon_1(\omega), \epsilon_2(\omega)$).
-  * Optical absorption coefficient spectra ($\alpha(\omega)$).
-  * Refractive indices ($n(\omega)$) and extinction coefficients ($\kappa(\omega)$).
-  * Reflectivity spectra ($R(\omega)$).
-  * Electron energy-loss spectra ($L(\omega)$).
-  * Frequency-dependent optical conductivity spectra ($\sigma_1(\omega)$).
+  * Frequency-dependent complex dielectric functions.
+  * Optical absorption coefficient spectra.
+  * Refractive indices and extinction coefficients.
+  * Reflectivity spectra.
+  * Electron energy-loss spectra.
+  * Frequency-dependent optical conductivity spectra.
 
 * **OriginPro Project Files & Visual Assets:**
   * Editable OriginPro (`.opju` / `.opj`) project files containing raw data layers and curve fittings.
