@@ -5,7 +5,7 @@ This is machine learning workflow to discover novel lead free perovskite with th
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI: Materials Today Physics](https://img.shields.io/badge/DOI-10.1016%2Fj.mtphys.2026.102180-blue)](https://doi.org/10.1016/j.mtphys.2026.102180)
+[![DOI: Materials Today Physics Q1 Impact Factor 9.3](https://img.shields.io/badge/DOI-10.1016%2Fj.mtphys.2026.102180-blue)](https://doi.org/10.1016/j.mtphys.2026.102180)
 
 This repository implements the multi-stage materials informatics and backward-mapping framework described in:
 
